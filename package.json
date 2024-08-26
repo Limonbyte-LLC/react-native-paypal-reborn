@@ -1,0 +1,67 @@
+{
+  "_from": "react-native-paypal-reborn@1.1",
+  "_id": "react-native-paypal-reborn@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-Rr+Q7cQaGXc29EZGbmKHPJ5QYoVmNHvHp2bLPQkd31IHWPB6RnAKX6+dyHT72YsN2xGER2TcW9xO1O9rkGKitg==",
+  "_location": "/react-native-paypal-reborn",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-native-paypal-reborn@1.1",
+    "name": "react-native-paypal-reborn",
+    "escapedName": "react-native-paypal-reborn",
+    "rawSpec": "1.1",
+    "saveSpec": null,
+    "fetchSpec": "1.1"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-paypal-reborn/-/react-native-paypal-reborn-1.1.0.tgz",
+  "_shasum": "b8a781df3e345f86313f3be2b1793873ebbf0168",
+  "_spec": "react-native-paypal-reborn@1.1",
+  "_where": "C:\\xampp\\htdocs\\Sysge24\\app",
+  "author": {
+    "name": "Maciej Sasinowski"
+  },
+  "bugs": {
+    "url": "https://github.com/msasinowski/react-native-paypal-reborn/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": "This project has been renamed. Install using react-native-expo-braintree instead. https://www.npmjs.com/package/react-native-expo-braintree",
+  "description": "React Native library that implements PayPal Checkout flow using purely native code",
+  "devDependencies": {
+    "@commitlint/cli": "^18.6.1",
+    "@commitlint/config-conventional": "^18.6.2",
+    "husky": "^9.0.11"
+  },
+  "homepage": "https://github.com/msasinowski/react-native-paypal-reborn#readme",
+  "keywords": [
+    "react-native",
+    "paypal",
+    "checkout",
+    "paypal-checkout",
+    "braintree",
+    "android",
+    "ios",
+    "payment",
+    "reborn"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-paypal-reborn",
+  "peerDependencies": {
+    "react-native": ">=0.41.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/msasinowski/react-native-paypal-reborn.git"
+  },
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "typings": "index.d.ts",
+  "version": "1.1.0"
+}
